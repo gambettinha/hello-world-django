@@ -20,7 +20,7 @@ It will download the virtual machine.
 
 ###Configure Vagrant box
 
-    $ https://github.com/gambettinha/hello-world-django.git
+    $ git clone https://github.com/gambettinha/hello-world-django.git
     $ cd hello-world-django
     $ vagrant up
     
