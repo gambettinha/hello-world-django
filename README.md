@@ -36,7 +36,7 @@ Just run with the command
 
     $ python manage.py runserver 0.0.0.0:8000
     
-Go in your browser to http://localhost:9000/example
+Go in your browser to http://127.0.0.1:9000/example
 
 
 Once you are done coding and playing. You can exit from the server with
